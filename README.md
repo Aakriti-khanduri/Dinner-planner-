@@ -77,7 +77,7 @@ Each button on the UserForm performs a key task:
 Dinner-planner-/
 │
 ├── dinner planner file.xlsm # Main Excel workbook
-├── VBA/ # Folder containing exported VBA components
+├── VBA code/ # Folder containing exported VBA components
 │ ├── dinnerplannerUserForm(1).frm # UserForm interface file
 │ └── custombuttondinnerplanner(1).bas # VBA module for custom button logic
 └── README.md # This file
