@@ -78,8 +78,8 @@ Dinner-planner-/
 │
 ├── dinner planner file.xlsm # Main Excel workbook
 ├── VBA code/ # Folder containing exported VBA components
-│ ├── dinnerplannerUserForm(1).frm # UserForm interface file
-│ └── custombuttondinnerplanner(1).bas # VBA module for custom button logic
+│ ├── DinnerPlannerUserForm.frm.frm # UserForm interface file
+│ └── DinnerPlannerCustomButton.bas.bas # VBA module for custom button logic
 └── README.md # This file
 
 > You can import the `.frm` and `.bas` files into the VBA Editor using `File > Import File...` (press `Alt + F11` in Excel).
