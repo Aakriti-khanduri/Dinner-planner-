@@ -59,9 +59,6 @@ Each button on the UserForm performs a key task:
 - **EXIT** ❌  
   Closes the UserForm
 
-- **INPUT THE SCHOOL** 🏫  
-  Custom button to input or tag school name (optional)
-
 ---
 
 ## 🧠 Technologies Used
